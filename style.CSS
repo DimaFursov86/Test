@@ -1,0 +1,9 @@
+body {
+  background-color: #156df1;
+}
+.Main-name {
+  font-size: 40px;
+  font-weight: 400;
+  line-height: 64px;
+  color: #070707;
+}
